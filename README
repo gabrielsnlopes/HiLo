@@ -1,0 +1,4 @@
+# Jogo de Adivinhação (HiLo)
+
+#Jogo desenvolvido em Python no qual o jogador deve adivinhar um número aleatório entre 1 e 100. A cada tentativa, o programa informa se o número escolhido é demasiado alto ou demasiado baixo. O jogo continua até o jogador acertar, apresentando no final o número total de tentativas realizadas.
+#O projeto utiliza a função randrange()` para gerar o número aleatório, a estrutura `while` para repetir as tentativas e as condições `if`, `elif` e `else` para verificar as respostas.
